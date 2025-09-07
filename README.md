@@ -172,7 +172,7 @@ VITE_API_BASE_URL=https://habitlearner.cn
 
 ## 📞 联系我们
 
-- **项目地址**: https://github.com/yourusername/habitlearner
+- **项目地址**: https://github.com/xie24666/HabitLearner.git
 - **在线演示**: https://habitlearner.cn
 - **问题反馈**: [Issues](https://github.com/yourusername/habitlearner/issues)
 
@@ -181,5 +181,6 @@ VITE_API_BASE_URL=https://habitlearner.cn
 感谢所有为这个项目做出贡献的开发者和用户！
 
 ---
+
 
 **习知 HabitLearner** - 让习惯养成更科学高效 🚀
